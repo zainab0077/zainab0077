@@ -1,16 +1,16 @@
 # 👋 Hi, I’m zainab Ansari from Pakistan...
 
-# 🎮 Game Developer 🌟Creative Mind behind 👾Fun and Interactive Experiences.
-# 🎮 I’m a passionate 10th-grade student exploring the world of game development.
+🎮 Game Developer 🌟Creative Mind behind 👾Fun and Interactive Experiences...
+🎮 I’m a passionate 10th-grade student exploring the world of game development...
  
 # 📫Connect with me:
-- # medium:
+# medium:
 - https://medium.com/@haseb3883838/list/reading-list
-- # kaggle:
+# kaggle:
 - https://www.kaggle.com/zainabansari001
-- # hackerrank:
+# hackerrank:
 - https://www.hackerrank.com/profile/haseb3883838
-- # Email: 📧
+# Email: 📧
 - haseb3883838@gmail.com
 
 # Languages:
