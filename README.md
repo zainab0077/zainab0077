@@ -5,6 +5,9 @@
 🎮 I’m a passionate 10th-grade student exploring the world of game development...
  
 # 📫Connect with me:
+# LeetCode:
+https://leetcode.com/u/zainab0077/
+
 # medium:
 - https://medium.com/@haseb3883838/list/reading-list
 # kaggle:
