@@ -4,11 +4,11 @@
 
 🎮 I’m a passionate 11th-grade student exploring the world of game development...
  
-YouTube:
-https://www.youtube.com/@AgentZee-v2l
+# YouTube:
+- https://www.youtube.com/@AgentZee-v2l
 
 # LeetCode:
-https://leetcode.com/u/zainab0077/
+- https://leetcode.com/u/zainab0077/
 
 # medium:
 - https://medium.com/@haseb3883838/list/reading-list
