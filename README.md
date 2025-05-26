@@ -2,9 +2,11 @@
 
 🎮 Game Developer 🌟Creative Mind behind 👾Fun and Interactive Experiences...
 
-🎮 I’m a passionate 10th-grade student exploring the world of game development...
+🎮 I’m a passionate 11th-grade student exploring the world of game development...
  
-# 📫Connect with me:
+YouTube:
+https://www.youtube.com/@AgentZee-v2l
+
 # LeetCode:
 https://leetcode.com/u/zainab0077/
 
