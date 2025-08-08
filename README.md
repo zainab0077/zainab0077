@@ -4,8 +4,7 @@
 </p>
 
 # Hi, I’m Zainab Khan from Pakistan...
- n8n Expert | YouTube Creator @AgentZee | Helping people automate and innovate
-![n8n logo](https://commons.wikimedia.org/wiki/File:N8n-logo-new.svg)  
+#### n8n Expert | YouTube Creator AgentZee | Helping people automate and innovate
 
 # YouTube:
 - https://www.youtube.com/@AgentZee-v2l
