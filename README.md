@@ -21,9 +21,12 @@
 # Email: 📧
 - haseb3883838@gmail.com
 
-# Languages:
+# Languages and Tools:
+- n8n.io
+- make.com
 - c++
 - css
+- java
 - Python
 - HTML
 - JavaScript
