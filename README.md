@@ -3,12 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
-# Hi, I’m Zainab Ansari from Pakistan...
+# Hi, I’m Zainab Khan from Pakistan...
+ n8n Expert | YouTube Creator @AgentZee | Helping people automate and innovate
+![n8n logo](https://commons.wikimedia.org/wiki/File:N8n-logo-new.svg)  
 
-🎮 Game Developer 🌟Creative Mind behind 👾Fun and Interactive Experiences...
-
-🎮 I’m a passionate 11th-grade student exploring the world of game development...
- 
 # YouTube:
 - https://www.youtube.com/@AgentZee-v2l
 
