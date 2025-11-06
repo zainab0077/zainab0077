@@ -4,10 +4,6 @@
 </p>
 
 # Hi, I’m Zainab Khan from Pakistan...
-#### n8n Expert | YouTube Creator AgentZee | Helping people automate and innovate
-
-# YouTube:
-- https://www.youtube.com/@AgentZee-v2l
 
 # LeetCode:
 - https://leetcode.com/u/zainab0077/
@@ -28,6 +24,8 @@
 - css
 - java
 - Python
+- java script
+- HTML
 - HTML
 - JavaScript
 </p>
